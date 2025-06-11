@@ -9,11 +9,11 @@ Analyze Ola ride-booking data to uncover trends in bookings, cancellations, paym
 - Power BI for interactive dashboards
 
 ## 📂 Project Structure
-- `dataset/`: Raw CSV file of booking data
-- `excel_cleaning/`: Cleaned Excel file 
-- `sql_queries/`: SQL queries with output
-- `powerbi_dashboard/`: Final dashboard (.pbix) and visuals
-- `Ola_Ride_Data_Analysis_Project.pdf`: Full PDF project report
+-Bookings-100000-Rows.csv: Raw CSV file of booking data
+-Bookings-100000-Rows final.csv: Cleaned Excel file
+-ola sql.sql: SQL queries with output
+-ola final project.pbix: Final dashboard (.pbix) and visuals
+-Ola_Ride_Data_Analysis_Project.pdf: Full PDF project report
 
 ## 📊 Key Insights
 - Prime SUVs preferred for long rides; Autos/Bikes for short trips
